@@ -1,0 +1,13 @@
+ultralytics
+fastapi
+uvicorn
+streamlit
+pillow
+opencv-python
+ftfy
+regex
+tqdm
+scikit-learn
+numpy
+requests
+python-multipart
