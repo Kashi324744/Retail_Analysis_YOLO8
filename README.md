@@ -1,10 +1,10 @@
-# 🛒 Retail Shelf Analysis System
+# Retail Shelf Analysis System
 
 AI-powered product detection and brand grouping for retail shelf images using YOLOv8 and CLIP.
 
 ---
 
-## 📋 Overview
+## Overview
 
 This system analyzes retail shelf images to:
 - **Detect** individual products using YOLOv8m
@@ -23,7 +23,7 @@ This system analyzes retail shelf images to:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Core Libraries
 
@@ -59,7 +59,7 @@ requests>=2.31.0
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ### System Flow
 
@@ -173,7 +173,7 @@ retail-shelf-analysis/
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 ### Prerequisites
 
@@ -280,18 +280,4 @@ Opens browser at: `http://localhost:8501`
 
 ---
 
-## 📧 Contact
 
-**Your Name**  
-📧 Email: your.email@example.com  
-🔗 GitHub: [@yourusername](https://github.com/yourusername)  
-💼 LinkedIn: [your-profile](https://linkedin.com/in/yourprofile)
-
----
-
-## 🙏 Acknowledgments
-
-- **SKU-110K Dataset:** [Goldman et al.](https://github.com/eg4000/SKU110K_CVPR19)
-- **YOLOv8:** [Ultralytics](https://github.com/ultralytics/ultralytics)
-- **CLIP:** [OpenAI](https://github.com/openai/CLIP)
-- **Deployment:** [Modal](https://modal.com)
