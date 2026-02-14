@@ -16,11 +16,6 @@ This system analyzes retail shelf images to:
 **Model:** YOLOv8m fine-tuned on SKU-110K  
 **Deployment:** Modal.com with T4 GPU  
 
-**Key Results:**
-- Detection mAP@0.5: **0.612**
-- Inference time: **~190ms** (GPU)
-- Handles 100+ products per image
-
 ---
 
 ## Tech Stack
